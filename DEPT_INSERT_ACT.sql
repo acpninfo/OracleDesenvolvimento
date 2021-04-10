@@ -13,6 +13,8 @@ create or replace NONEDITIONABLE PROCEDURE "DEPT_INSERT_ACT" (
       p_loc2  := 'www';
 
       p_loc2  := 'yyyywww';
+      
+      p_loc2  := 'yyyywww';      
 
 
     HTP.Print(
