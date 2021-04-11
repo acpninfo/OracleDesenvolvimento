@@ -9,7 +9,7 @@ create or replace NONEDITIONABLE PROCEDURE "DEPT_INSERT_ACT" (
 
 
 
-      p_loc2  := 'git8t';
+      p_loc2  := 'git89t';
 
 
       p_loc2  := 'agora';
