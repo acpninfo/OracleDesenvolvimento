@@ -7,7 +7,9 @@ create or replace NONEDITIONABLE PROCEDURE "DEPT_INSERT_ACT" (
     p_loc2 varchar2(3) := '';
   BEGIN
 
-      p_loc2  := 'git';
+
+
+      p_loc2  := 'git8t';
 
 
       p_loc2  := 'agora';
